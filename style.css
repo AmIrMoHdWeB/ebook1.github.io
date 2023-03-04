@@ -247,6 +247,7 @@ footer {/*footer css "website end"*/
 	padding: 20px;
 	text-align: center;
 	width: 100%;
+	min-width: 800px;
 	
 }
 
