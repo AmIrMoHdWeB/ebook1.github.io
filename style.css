@@ -15,6 +15,8 @@ header {
 	color: #fff;
 	padding: 10px;
   	width: 100%;
+	min-width:1000px;
+	min-height: 200px;
   	font-size: 30px;
   
 
@@ -32,7 +34,7 @@ nav ul {
 }
 
 nav li {
-	margin-right: 120px;
+	margin-right: 3%;
 }
 
 nav li:last-child {
@@ -63,7 +65,8 @@ main {
   position: relative; /* Sets the container to position:relative */
   width: 100%;
   height: 600px;
-  margin-left: 3%;
+  min-height: 250px;
+  min-width: 700px;
     
    
   }
@@ -110,8 +113,8 @@ main {
 }
 .ico_book/*book icon set it to the cenetr */
 {
+  align-items: baseline;
   
-  margin-left: 37%;
 }
 
 .buy-btn {
