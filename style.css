@@ -79,15 +79,15 @@ main {
     border-radius: 25px;
   }
   
-  .prev, .next { /*slidesho button position, border, width*/
+  .prev, .next {     /*slidesho button position, border, width*/
     position: absolute;
     top: 50%;
     width: auto;
-    margin-top: -22px;
+    margin-top: -52px;
     padding: 16px;
     color: #000000;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 70px;
     transition: 1s ease;
     border-radius: 0 3px 3px 0;
   }
